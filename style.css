@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Playfair+Display:ital@1&family=Poppins&family=Quicksand:wght@700&family=Work+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Noto+Serif&family=Playfair+Display:ital,wght@0,700;1,400&family=Poppins&family=Quicksand:wght@700&family=Work+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Noto+Serif&family=Playfair+Display:ital,wght@0,700;1,400&family=Poppins&family=Quicksand:wght@700&family=Work+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Noto+Serif:wght@300&family=Playfair+Display:ital@1&family=Poppins&family=Quicksand:wght@700&family=Work+Sans:wght@700&display=swap');
+.header{
+    background-color:#d5d2c8 ;
+    position:fixed;
+    top:0;
+    width: 100%;
+    z-index:10;
+}
+ .header a{
+ color: rgb(56, 55, 55);
+ transition: .3s;
+ }
+main{
+}
+.bg-img a{
+    color: white;
+    transition: .3s;
+    font-family: 'Playfair Display', serif;
+    padding: 10px;
+    margin-top: 70px;
+}
+.bg-img a:hover{
+    color: tomato;
+}
+.bg-img{
+    background-image: url(image/tinywow_90ebeb97-7bbd-4456-94ca-e6e57b8ba63f_russell-brand_34051540.jpg);
+    width:1348px ;
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+h2{
+position: absolute;
+right: 5px;
+top: 10px;
+color: white;
+transition: .5s;
+}
+h2:hover{
+    color:tomato ;
+}
+h1{
+    font-size: 15rem;
+    text-align: center;
+    margin-top: 300px;
+    position: absolute;
+    text-align: center;
+    letter-spacing: -20px;
+    font-family: 'Quicksand', sans-serif;
+    align-items: center;
+    margin-left: 25px;
+}
+.p-text{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Noto Serif', serif;
+    font-size: 1.3rem;
+}
+.h3-text{
+    font-family: 'Playfair Display', serif;
+}
+a{
+    text-decoration: none;
+    color: tomato;
+}
+.my-img1{
+    margin-left: 320px;
+    margin-top: 100px;
+}
+.my-img2{
+    margin-left: 210px;
+    margin-top: 10px;
+}
+.my-button{
+    align-items: center;
+    border-radius: 30px;
+    background-color: black;
+    transition: .5s;
+
+}
+.my-button:hover{
+    background-color: tomato;
+}
+.comdy{
+    background-color:rgb(245, 235, 220);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.comdy h4{
+    font-size: 6rem;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    margin-top: 100px;
+}
+.button2{
+    align-items: center;
+}
+.comunity{
+    background-color:#d5d2c8 ;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.comunity h4{
+    font-size: 6rem;
+    text-align: center;
+    margin-top: 100px;
+font-family: 'Playfair Display', serif;
+ 
+}
+.Russel-brand{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.Russel-brand h4{
+    font-size: 6rem;
+    text-align: center;
+    margin-top: 100px;
+font-family: 'Playfair Display', serif;
+ 
+}
+.Russel-brand h5{
+    font-size: 3rem;
+    font-family: 'Playfair Display', serif;
+    margin-top: 100px;
+
+
+}
+.foundation{
+    background-color:rgb(245, 235, 220);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.foundation h4{
+    font-size: 6rem;
+    text-align: center;
+    margin-top: 100px;
+font-family: 'Playfair Display', serif; 
+}
+.community h4{
+    font-size: 8rem;
+    text-align: center;
+    margin-top: 100px;
+font-family: 'Playfair Display', serif;   
+}
+.from{
+    width: 400px;
+}
+.from h6{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+input:focus{
+    outline: none;
+}
+.my-giff{
+ width: 200px;
+ height: 200px;
+ margin-top: 100px;
+ margin-top: 100px;
+}
+.Menu-bar{
+    background-color: #d5d2c8;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 100px;
+}
+.Menu-bar a{
+    font-family: 'Playfair Display', serif; 
+    font-weight: 700; 
+    font-size: 2rem;
+    color: rgb(31, 30, 30);
+    transition: .4s;
+}
+ a:hover{
+    color: tomato;
+}
+.icon{
+    margin-top: 40px;
+}
+.icon i{
+    font-size: 40px;
+    padding: 3px;
+}
+.copyright{
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+.copyright a{
+    font-size: 13px;
+    font-weight: 100;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 1px solid rgb(163, 159, 159);
+}
+.copyright :nth-child(1){
+    border-left: none;
+}
